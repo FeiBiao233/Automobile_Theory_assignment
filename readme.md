@@ -732,3 +732,9 @@ if __name__ == '__main__':
 ```
 
 ![3.1](D:\Files\工大开学\大三下\汽车理论基础\Releases\Output\报告.assets\3.1-1743520569177-1.png)
+
+## 附录
+### github:
+https://github.com/FeiBiao233/Automobile_Theory_assignment
+### 参考文献:
+《汽车理论（第6版）》余志生
